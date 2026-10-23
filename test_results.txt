@@ -1,0 +1,2 @@
+low,9000.0,3
+high  with comma,11000.0,5

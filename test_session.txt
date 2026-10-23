@@ -1,0 +1,7 @@
+ticker,TEST
+day,1
+cash,9989.99
+shares,1.0
+event,BUY 1 at 10.0 -> ACCEPT
+equity,9999.99,10002.99
+trade,0,BUY,10.0
