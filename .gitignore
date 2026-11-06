@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+# What the program and the tests write when they run
+results.txt
+leaderboard.txt
+*.png
+test_results.txt
+test_leaderboard.txt
+TESTMKT.csv
